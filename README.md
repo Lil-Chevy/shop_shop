@@ -13,3 +13,7 @@ Jack Nowaczewski
 ## GITHUB REPO
 
 https://github.com/Lil-Chevy/shop_shop
+
+## deployed app
+
+https://floating-tundra-39649.herokuapp.com/
